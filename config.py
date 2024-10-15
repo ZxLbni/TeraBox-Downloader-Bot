@@ -13,7 +13,7 @@ REDIS_CONFIG = {
 }
 
 # Chat ID where videos will be stored
-PRIVATE_CHAT_ID = -4283901350
+PRIVATE_CHAT_ID = -1002445495902
 
 # Authentication cookie
 COOKIE = {
